@@ -13,7 +13,7 @@ public class SomeLernejoTests {
 
     }
 
-    public void none(){
+    public void none() throws IllegalStateException{
         throw new IllegalStateException();
     }
 }
